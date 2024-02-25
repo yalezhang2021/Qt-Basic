@@ -21,10 +21,12 @@ use Qt Creator 12.0.1
       1-- langsam,   10-- schnell
    
    4. Diese sind alle 6 Sekunden neu eingelesen werden.
+   5. 
 
 ![image](https://github.com/yalezhang2021/Qt-Basic/assets/74490220/223ed2ad-9b03-45f9-a8b1-69b3a58ba377)
 
 
 
 **2. Calculator with Qt:**
+
 ![image](https://github.com/yalezhang2021/Qt-Basic/assets/74490220/05812fac-2cc0-4073-97f2-6d716f74bfa4)
